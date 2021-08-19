@@ -1,0 +1,21 @@
+*.swp
+*.cache
+*~
+
+bin/
+
+# idea
+*.iml
+.idea/
+out/
+
+# go mod,
+pkg/
+
+# buf
+buf.lock
+
+# log
+log/
+*.log
+
